@@ -20,8 +20,8 @@ This Autoclicker is made in c++, and undetected! But still, use at your own risk
 How to use:
 
 1. Turn on the EXE while you're in Minecraft.
-2. Enter the minimum and maximum delay (1 to 10)
-4. Hold z to click.
+2. Enter the cps ( not accurate )
+4. Hold z to click. (choice for key coming soon)
 
 
 Big Thanks to unkNownH4cker#9174!
