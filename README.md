@@ -16,7 +16,7 @@ This Autoclicker is made in c++, and undetected! But still, use at your own risk
 
 How to use:
 
-1. Turn on the EXE while you're in Minecraft.
+1. Turn on the EXE while you're in the Game you chose.
 2. Enter the delay
 3. Enter the key, write 6969 for help
 4. Enjoy! Hold the key for the autoclicker to click!
