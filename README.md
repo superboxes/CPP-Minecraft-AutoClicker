@@ -20,7 +20,7 @@ How to use:
 2. Enter the delay
 3. Enter the key, write 6969 for help
 4. Enjoy! Hold the key for the autoclicker to click!
-5. Press DEL button to go back to choices of clicker type.
+5. Press DEL button to turn off autoclicker.
 
 
 Big Thanks to unkNownH4cker#9174!
